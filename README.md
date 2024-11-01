@@ -1,4 +1,4 @@
-This repo allows you to sum any 3 numbers using PyTorch in the cloud.
+test This repo allows you to sum any 3 numbers using PyTorch in the cloud.
 Just create a PR with updated weights.pt file by modifying
 and running save_dict.py locally. The result will be posted
 as a comment on your PR. You can use any 3 numbers!
